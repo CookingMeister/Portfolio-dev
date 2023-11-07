@@ -33,28 +33,39 @@ header {
  img {
     opacity: 85%;
  }
+ 
 /* Work Section */
 
 #Work {
     box-shadow: 0px -10px 20px -10px #191970;
     background-image:linear-gradient(45deg, rgb(0, 110, 255, 0.777), rgba(30, 6, 245, 0.777)); 
 }
+
  /* Contact Section */
  #Contact {
     background-image: linear-gradient(45deg, rgb(30, 6, 245, 0.777), rgba(0, 110, 255, 0.777));
     box-shadow: 0px -10px 20px -10px #191970;
  }
 
- .form-check-label {
-    
- }
 /* Footer */
 
- footer{
+#footer {
+    background-image: linear-gradient(45deg, rgba(255, 0, 0, 0.856), rgba(255, 251, 0, 0.677));
+    box-shadow: 0px -10px 20px -10px midnightblue;
+}
+
+ .footer{
     display: flex;
     justify-content: center;
-    height: 14vh;
-    background-image: linear-gradient(45deg, rgba(255, 0, 0, 0.856), rgba(255, 251, 0, 0.677));
-    padding-top: 4rem;
-    box-shadow: 0px -10px 20px -10px midnightblue;
+    align-items: center;
+    height: 12vh;   
+ }
+
+ .footer p {
+    text-align: center;
+ }
+
+ span {
+    font-weight: 700;
+    
  }
