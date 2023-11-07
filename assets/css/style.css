@@ -1,3 +1,5 @@
+/* Body Styling */
+
 body {
     margin: 0;
     padding: 0;
@@ -5,28 +7,54 @@ body {
     background-image: linear-gradient(45deg, rgb(30, 6, 245), rgba(0, 110, 255, 0.777));
     color: black;
 }
+/* Heading */
 
-.fs-4 {
+header {
+    padding-left: 1rem;
+  }
+
+.head-title {
     padding: 0 1rem;
 }
+
+/* Nav Links Styling */
+
 .nav-link {
     color: black;
 }
+
 .nav-link:hover {
     color: rgb(175, 50, 34);
     transform: scale(1.1) ;
 }
+
+/* Profile Image */
+
  img {
     opacity: 85%;
  }
+/* Work Section */
 
- header {
-   padding-left: 1rem;
+#Work {
+    box-shadow: 0px -10px 20px -10px #191970;
+    background-image:linear-gradient(45deg, rgb(0, 110, 255, 0.777), rgba(30, 6, 245, 0.777)); 
+}
+ /* Contact Section */
+ #Contact {
+    background-image: linear-gradient(45deg, rgb(30, 6, 245, 0.777), rgba(0, 110, 255, 0.777));
+    box-shadow: 0px -10px 20px -10px #191970;
  }
+
+ .form-check-label {
+    
+ }
+/* Footer */
+
  footer{
     display: flex;
     justify-content: center;
-    height: 15vh;
+    height: 14vh;
     background-image: linear-gradient(45deg, rgba(255, 0, 0, 0.856), rgba(255, 251, 0, 0.677));
     padding-top: 4rem;
+    box-shadow: 0px -10px 20px -10px midnightblue;
  }
