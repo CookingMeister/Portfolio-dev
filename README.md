@@ -41,12 +41,12 @@ The following image show the web application's appearance:
 
 ![porfolio website](./img/Mockup.png)
 
-See the live site at: ![portfolio website](CookingMeister.github.io/Dev-Portfolio)
+See the live site at: [Shawn's Portfolio](https://cookingmeister.github.io/Portfolio-dev/)
 
 ## Credits
 
-I used some Bootstrap snippets and components for this web application.
-Also the code for the card circle profile icon was found in a template on BootstrapMade.com.
+* I used some Bootstrap snippets and components for this web application.
+* The code for the card circle profile icon was found in a template on BootstrapMade.com.
 
 ## License
 
