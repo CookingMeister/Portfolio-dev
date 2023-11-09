@@ -39,7 +39,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 The following image show the web application's appearance:
 
-![porfolio website](./img/mockup.png)
+![porfolio website](./img/Mockup.png)
 
 See the live site at: ![portfolio website](CookingMeister.github.io/Dev-Portfolio)
 
